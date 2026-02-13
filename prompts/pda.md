@@ -30,6 +30,7 @@ We want the entrepreneur to execute small, simple actions which done completely 
 	- Module 3 and Module 4 are stage 2
 	- Module 5 and Module 6 are stage 3
 	- Module 7 and Module 8 are stage 4
+- The link for the resources must be a valid url, verify it.
 
 # Execute in the following order
 1. Create the modules following the **Requirements** and the **Deliverables** instructions.
@@ -38,6 +39,7 @@ We want the entrepreneur to execute small, simple actions which done completely 
 4. Improve the modules and its stages.
 # Deliverables:
 - Content must me in Spanish.
+- the url in the property `resources_links.url` must be validated
 - The following is the model for the data that must be returned:
 ```
 [
